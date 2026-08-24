@@ -1,0 +1,30 @@
+# DappRadar Airdrop — Track Crypto Airdrops Safely Reference
+
+> Use DappRadar's dapp analytics and airdrop tracker to discover and evaluate crypto airdrops, understand the RADAR token, and avoid airdrop scams. Independent, informational, not affiliated with DappRadar. Does not distribute tokens.
+
+## Airdrop safety (read first)
+- No legitimate airdrop asks for your seed phrase or private keys
+- No legitimate airdrop requires an upfront payment to claim
+- This page is informational only — no claim flow, distributes no tokens
+- You cannot claim any airdrop by connecting a wallet to this page
+
+## Key Facts
+- DappRadar: dapp analytics platform tracking apps, tokens and activity across many chains
+- Airdrop tracker: curated lists of ongoing/potential airdrops with tasks and eligibility notes
+- RADAR: DappRadar ecosystem utility/governance token, ERC-20 on Ethereum (bridged on Polygon, BNB Chain)
+- Evaluate airdrops: verify official domain, check token contract, distrust urgency, assume nothing is guaranteed
+- Independent resource — NOT affiliated with or endorsed by DappRadar
+
+## Internal Sections & App Navigation
+- [What is DappRadar Airdrop?](#what)
+- [What is the RADAR token?](#radar)
+- [How airdrop tracking works](#tracking)
+- [How to evaluate an airdrop](#evaluate)
+- [Spotting airdrop scams](#scams)
+- [Staying safe](#safety)
+- [Networks & where RADAR lives](#networks)
+- [FAQ](#faq)
+- [Open Airdrop Tracker](dashboard/index.html)
+
+## Disclaimer
+Independent, informational page. Not affiliated with or endorsed by DappRadar. Does not distribute tokens. Not financial advice.

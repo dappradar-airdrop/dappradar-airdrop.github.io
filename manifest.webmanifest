@@ -1,0 +1,12 @@
+{
+  "name": "DappRadar Airdrop",
+  "short_name": "DappRadar Airdrop",
+  "description": "Discover and evaluate crypto airdrops with DappRadar, and learn to avoid airdrop scams. Informational, not affiliated with DappRadar.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "en",
+  "background_color": "#0a0e14",
+  "theme_color": "#0a0e14",
+  "icons": [{ "src": "radar.png", "sizes": "any", "type": "image/png", "purpose": "any" }]
+}
